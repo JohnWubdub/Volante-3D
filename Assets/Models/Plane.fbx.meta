@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: f8e6e31151776ad4ba5e56a97f15a6c5
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body
+    100002: elices
+    100004: engine
+    100006: engine 1
+    100008: engine_turrets
+    100010: foot_thing
+    100012: foot_thing1
+    100014: leg_support
+    100016: leg_support1
+    100018: pasted__plane
+    100020: pasted__supportarm
+    100022: pasted__supportarm2
+    100024: pasted__wing_group
+    100026: pCylinder1
+    100028: pCylinder10
+    100030: pCylinder2
+    100032: pCylinder3
+    100034: pCylinder4
+    100036: pCylinder5
+    100038: pCylinder6
+    100040: pCylinder7
+    100042: pCylinder8
+    100044: pCylinder9
+    100046: //RootNode
+    100048: pntoon2
+    100050: pontoons
+    100052: ponyoon
+    100054: tail
+    100056: wingholders
+    100058: wings
+    400000: body
+    400002: elices
+    400004: engine
+    400006: engine 1
+    400008: engine_turrets
+    400010: foot_thing
+    400012: foot_thing1
+    400014: leg_support
+    400016: leg_support1
+    400018: pasted__plane
+    400020: pasted__supportarm
+    400022: pasted__supportarm2
+    400024: pasted__wing_group
+    400026: pCylinder1
+    400028: pCylinder10
+    400030: pCylinder2
+    400032: pCylinder3
+    400034: pCylinder4
+    400036: pCylinder5
+    400038: pCylinder6
+    400040: pCylinder7
+    400042: pCylinder8
+    400044: pCylinder9
+    400046: //RootNode
+    400048: pntoon2
+    400050: pontoons
+    400052: ponyoon
+    400054: tail
+    400056: wingholders
+    400058: wings
+    2100000: redmetal
+    2100002: yellow
+    2100004: black1
+    2100006: nonredmetal
+    2100008: wing_stars
+    2100010: phong8
+    2100012: phong5
+    2100014: pure_metal
+    2100016: lambert1
+    2300000: body
+    2300002: elices
+    2300004: engine 1
+    2300006: foot_thing
+    2300008: foot_thing1
+    2300010: leg_support
+    2300012: leg_support1
+    2300014: pasted__supportarm
+    2300016: pasted__supportarm2
+    2300018: pCylinder1
+    2300020: pCylinder10
+    2300022: pCylinder2
+    2300024: pCylinder3
+    2300026: pCylinder4
+    2300028: pCylinder5
+    2300030: pCylinder6
+    2300032: pCylinder7
+    2300034: pCylinder8
+    2300036: pCylinder9
+    2300038: tail
+    2300040: wings
+    3300000: body
+    3300002: elices
+    3300004: engine 1
+    3300006: foot_thing
+    3300008: foot_thing1
+    3300010: leg_support
+    3300012: leg_support1
+    3300014: pasted__supportarm
+    3300016: pasted__supportarm2
+    3300018: pCylinder1
+    3300020: pCylinder10
+    3300022: pCylinder2
+    3300024: pCylinder3
+    3300026: pCylinder4
+    3300028: pCylinder5
+    3300030: pCylinder6
+    3300032: pCylinder7
+    3300034: pCylinder8
+    3300036: pCylinder9
+    3300038: tail
+    3300040: wings
+    4300000: body
+    4300002: tail
+    4300004: foot_thing
+    4300006: leg_support
+    4300008: foot_thing1
+    4300010: leg_support1
+    4300012: wings
+    4300014: pasted__supportarm
+    4300016: pasted__supportarm2
+    4300018: engine
+    4300020: pCylinder1
+    4300022: pCylinder2
+    4300024: pCylinder3
+    4300026: pCylinder4
+    4300028: pCylinder5
+    4300030: pCylinder6
+    4300032: pCylinder7
+    4300034: pCylinder8
+    4300036: pCylinder9
+    4300038: pCylinder10
+    4300040: elices
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

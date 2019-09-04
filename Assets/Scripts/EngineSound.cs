@@ -1,6 +1,4 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class EngineSound : MonoBehaviour 
 {
@@ -31,11 +29,7 @@ public class EngineSound : MonoBehaviour
     }
 	
 
-	public void PitchChanger(float moveSpeed)
-    {
-        float newPitch = (  ((maxPitch - minPitch) * (moveSpeed - minMoveSpeed)) / (maxMoveSpeed - minMoveSpeed) ) + minPitch;
-        audioSource.pitch = newPitch;
-    }
+	
 
     private void Update()
     {
@@ -48,5 +42,11 @@ public class EngineSound : MonoBehaviour
         {
             audioSource.pitch = minPitch;
         }
+    }
+
+    public void PitchChanger(float moveSpeed)
+    {
+        float newPitch = (((maxPitch - minPitch) * (moveSpeed - minMoveSpeed)) / (maxMoveSpeed - minMoveSpeed)) + minPitch;
+        audioSource.pitch = newPitch;
     }
 }
